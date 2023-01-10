@@ -1,4 +1,4 @@
-* {
+body {
     background-color:bisque;
     align-content: center; 
 }
@@ -34,10 +34,10 @@ tr .table_head {
 }
 
 td .vis_code {
-    background-color:darksalmon;
+    background-color:rgb(190, 75, 36);
 }
 
 table {
     border:2px;
-    background-color:lightcoral;
+    background-color:rgb(224, 176, 176);
 }
