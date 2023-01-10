@@ -1,6 +1,7 @@
 body {
     background-color:bisque;
     align-content: center; 
+    width:95%;
 }
 
 header {
@@ -17,6 +18,8 @@ header h1 {
 
 header li{ 
     float:right;
+    padding:10px 20px;
+    margin: 10px;
 }
 
 H2 {
@@ -40,4 +43,6 @@ td .vis_code {
 table {
     border:2px;
     background-color:rgb(224, 176, 176);
+    box-sizing:border-box;
+    width:80%;
 }
