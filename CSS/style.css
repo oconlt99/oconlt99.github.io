@@ -1,5 +1,8 @@
 body {
     background-color:bisque;
+}
+
+article {
     display:flex;
     justify-content:center;
 }
