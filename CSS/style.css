@@ -2,3 +2,34 @@
     background-color:bisque;
     align-content: center; 
 }
+
+header {
+    position:sticky;
+    box-sizing:border-box;
+    height:150px;
+}
+
+header h1 {
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(39,60,60);
+}
+
+header li{ 
+    float:right;
+}
+
+H2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:25px;
+    color:darkgreen;
+}
+th {
+    font-weight:bold;
+    font-size:20px;
+}
+
+tr .tablehead {
+    background-color:cadetblue
+}
+
