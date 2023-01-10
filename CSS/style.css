@@ -29,7 +29,15 @@ th {
     font-size:20px;
 }
 
-tr .tablehead {
-    background-color:cadetblue
+tr .table_head {
+    background-color:cadetblue;
 }
 
+td .vis_code {
+    background-color:darksalmon;
+}
+
+table {
+    border:2px;
+    background-color:lightcoral;
+}
